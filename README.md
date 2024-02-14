@@ -1,6 +1,7 @@
 # atwoz_flutter
 
-atwoz Flutter Project. 
+atwoz Flutter Project based on [`Flutter Advanced Boilerplate`][`https://github.com/fikretsengul/flutter_advanced_boilerplate`]
+
 
 <p align="center">
 <img src="https://img.shields.io/badge/based%20on-flutter%20%7C%20bloc-blueviolet.svg">
